@@ -1,0 +1,19 @@
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(240, 44, 44);
+  color: white;
+  padding: 20px;
+}
+span:hover{
+  background-color: blue;
+  padding: 5px 10px;
+  border-radius: 8px;
+}
+
+.route-div{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
